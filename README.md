@@ -1,2 +1,4 @@
-# data_challenge_2021
-Data Challenge Code for Price Prediction 
+# Data Challenge 2021
+## UW-Madison Statistics Club
+
+Data Challenge Model and Code for Price Prediction
